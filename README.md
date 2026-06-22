@@ -124,15 +124,17 @@ Enable Replay Buffer before using the OBS button.
 DIY-StreamDeck/
 │
 ├── firmware/
-│   └── streamdeck.ino
+│   └── sketch_streamdeck.ino
 │
 ├── images/
-│   ├── prototype.jpg
-│   ├── wiring.jpg
-│   └── final_build.jpg
+│   ├── caps.jpg
+│   ├── solboard.jpg
+│   └── solboth.jpg
+│   └── solswitchespots.jpg
+│   └── wireprep.jpg
 │
 ├── docs/
-│   └── wiring-diagram.png
+│   └── DIY-StreamDeck.png
 │
 └── README.md
 ```
