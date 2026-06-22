@@ -142,17 +142,20 @@ DIY-StreamDeck/
 ## Images
 
 ### Wire Prep
-![Wire Prep](images/wire prep.jpg)
+
+![Wire Prep](images/wireprep.jpg)
 
 ### Wiring
 
-![Wiring](images/sol switches and pots.jpg)
-(images/sol board.jpg)
-(images/sol both.jpg)
+![Switches and Pots](images/solswitchespots.jpg)
+
+![Pro Micro Wiring](images/solboard.jpg)
+
+![Full Assembly](images/solboth.jpg)
 
 ### Finished Build
 
-![Finished Build](images/cap.jpg)
+![Finished Build](images/caps.jpg)
 
 ---
 
