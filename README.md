@@ -184,6 +184,10 @@ The Pro Micro appears as a standard USB keyboard to the operating system.
 * Chrome Volume Control
 * OBS Audio Mixer Integration
 
+### Version 3
+
+* 3D printed enclosure
+
 ---
 
 ## Version History
