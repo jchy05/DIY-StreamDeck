@@ -141,6 +141,10 @@ DIY-StreamDeck/
 
 ## Images
 
+### Wiring Diagram
+
+![Wiring Diagram](docs/DIY-StreamDeck.png)
+
 ### Wire Prep
 
 ![Wire Prep](images/wireprep.jpg)
@@ -196,8 +200,3 @@ Features:
 * Potentiometer input support
 * USB HID keyboard functionality
 
----
-
-## Author
-
-Built as a personal Computer Engineering project using the ATmega32U4 Pro Micro platform.
