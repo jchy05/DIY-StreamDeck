@@ -37,9 +37,9 @@ The device acts as a USB keyboard using the Arduino `Keyboard.h` library, allowi
 * ATmega32U4 Pro Micro (5V / 16MHz)
 * 5 Mechanical Keyboard Switches
 * 5 Potentiometers
-* Breadboard
-* Jumper Wires
+* Wires
 * USB-C Cable
+* Soldering materials
 
 ---
 
