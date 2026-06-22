@@ -47,23 +47,23 @@ The device acts as a USB keyboard using the Arduino `Keyboard.h` library, allowi
 
 ### Buttons
 
-'''text
+```text
 D4 -> Button 1
 D5 -> Button 2
 D6 -> Button 3
 D7 -> Button 4
 D8 -> Button 5
-'''
+```
 
 ### Potentiometers
 
-'''text
+```text
 A0 -> Pot 1
 A1 -> Pot 2
 A2 -> Pot 3
 A3 -> Pot 4
 A10 -> Pot 5
-'''
+```
 
 ---
 
@@ -81,11 +81,11 @@ D4 ---- Button 1 ---- GND
 
 ### Potentiometers
 
-'''text
+```text
 5V  ---- Right Pin
 A0  ---- Middle Pin
 GND ---- Left Pin
-'''
+```
 
 The middle pin (wiper) connects to the analog input.
 
@@ -120,7 +120,7 @@ Enable Replay Buffer before using the OBS button.
 
 ## Project Structure
 
-'''text
+```text
 DIY-StreamDeck/
 │
 ├── firmware/
@@ -135,7 +135,7 @@ DIY-StreamDeck/
 │   └── wiring-diagram.png
 │
 └── README.md
-'''
+```
 
 ---
 
